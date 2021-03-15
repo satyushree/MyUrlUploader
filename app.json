@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "http://t.me/URLUPLOADERSHREE_BOT",
-  "website": "https://github.com/satyushree/URL-UPLOADER",
-  "repository": "https://github.com/satyushree/URL-UPLOADER",
+  "website": "https://github.com/satyushree/MyUrlUploader",
+  "repository": "https://github.com/satyushree/MyUrlUploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
